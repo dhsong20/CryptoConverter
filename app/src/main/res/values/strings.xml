@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoConverter</string>
+    <string name="currency">Currency</string>
+    <string name="crypto_currency">Crypto Currency</string>
+    <string name="usd">USD</string>
+    <string name="krw">KRW</string>
+    <string name="btc">BTC</string>
+    <string name="eth">ETH</string>
+    <string name="clear">Clear</string>
+</resources>
+
